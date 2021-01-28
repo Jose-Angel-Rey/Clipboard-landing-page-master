@@ -399,6 +399,10 @@ body {
   body {
     background-image: url(./images/bg-header-desktop.png);
   }
+    .section-two-img {
+    width: auto;
+    max-width: 800px;
+  }
 }
 @media screen and (min-width: 1440px) {
   .main-header {
